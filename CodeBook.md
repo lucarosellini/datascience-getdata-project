@@ -17,23 +17,23 @@ cate frequency domain signals).
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-tBodyAcc-XYZ, unit:seconds
-tGravityAcc-XYZ, unit:seconds
-tBodyAccJerk-XYZ, unit:seconds
-tBodyGyro-XYZ, unit:seconds
-tBodyGyroJerk-XYZ, unit:seconds
-tBodyAccMag, unit:seconds
-tGravityAccMag, unit:seconds
-tBodyAccJerkMag, unit:seconds
-tBodyGyroMag, unit:seconds
-tBodyGyroJerkMag, unit:seconds
-fBodyAcc-XYZ, unit Hz
-fBodyAccJerk-XYZ, unit Hz
-fBodyGyro-XYZ, unit Hz
-fBodyAccMag, unit Hz
-fBodyAccJerkMag, unit Hz
-fBodyGyroMag, unit Hz
-fBodyGyroJerkMag, unit Hz
+tBodyAcc-XYZ, unit:seconds<br/>
+tGravityAcc-XYZ, unit:seconds<br/>
+tBodyAccJerk-XYZ, unit:seconds<br/>
+tBodyGyro-XYZ, unit:seconds<br/>
+tBodyGyroJerk-XYZ, unit:seconds<br/>
+tBodyAccMag, unit:seconds<br/>
+tGravityAccMag, unit:seconds<br/>
+tBodyAccJerkMag, unit:seconds<br/>
+tBodyGyroMag, unit:seconds<br/>
+tBodyGyroJerkMag, unit:seconds<br/>
+fBodyAcc-XYZ, unit Hz<br/>
+fBodyAccJerk-XYZ, unit Hz<br/>
+fBodyGyro-XYZ, unit Hz<br/>
+fBodyAccMag, unit Hz<br/>
+fBodyAccJerkMag, unit Hz<br/>
+fBodyGyroMag, unit Hz<br/>
+fBodyGyroJerkMag, unit Hz<br/>
 
 The set of variables that were estimated from these signals are: 
 
