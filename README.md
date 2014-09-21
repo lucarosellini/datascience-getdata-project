@@ -4,33 +4,12 @@
 
 1. Download 'run_analysis.R' from my githib repo: https://github.com/lucarosellini/datascience-getdata-project
 2. Place the R script 'run_analysis.R' in the _root_ of your own copy of the UCI HUR Dataset (the dataset is quite big and has not been uploaded to GitHub).
-To be more clear, the following tree represents the UCI HUR Dataset directory structure and where you should place my run_analysis.R:
-
-	├── README.txt
-	├── activity_labels.txt
-	├── features.txt
-	├── features_info.txt
-	├── run_analysis.R 		<-- here goes the project script
-	├── test
-	│   ├── Inertial Signals
-	│   │   ├── body_acc_x_test.txt
-	│   │   ├── ...
-	│   ├── X_test.txt
-	│   ├── subject_test.txt
-	│   └── y_test.txt
-	└── train
-	    ├── Inertial Signals
-	    │   ├── body_acc_x_train.txt
-	    │   ├── ...
-	    ├── X_train.txt
-	    ├── subject_train.txt
-	    └── y_train.txt
 
 3. Run Rstudio or an R console session and issue a setwd(<root of UCI HUR Dataset>) to change the working directory to the root folder of the UCI HUR Dataset. You should change <root of UCI HUR Dataset> appropiately.
 
 4. perform a source("run_analysis.R")
 
-# How the script work
+# How the script works
 
 # Getting and Cleaning Data course project: run_analysis.R code book
 
